@@ -16,9 +16,7 @@
     return unique;
   };
 
-  const result: number[] = removeDuplicates([
-    1, 2, 2, 3, 4, 4, 5, 6, 6, 7, 8, 8, 8,
-  ]);
+  const result: number[] = removeDuplicates([1, 2, 2, 3, 4, 4, 5]);
 
   // console.log(result)
   //
