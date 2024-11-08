@@ -24,7 +24,7 @@
 
   const result: Profile = updateProfile(myProfile, { age: 26 });
 
-//   console.log(result);
+  console.log(result);
 
   //
 }

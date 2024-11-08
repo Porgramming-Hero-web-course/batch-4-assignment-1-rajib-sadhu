@@ -23,6 +23,6 @@
   const car = new Car("Honda", "Civic", 2018);
   const result: number = car.getCarAge();
 
-//   console.log(result);
+  console.log(result);
   //
 }

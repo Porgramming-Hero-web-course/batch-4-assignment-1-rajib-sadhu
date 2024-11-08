@@ -37,7 +37,7 @@
     height: 6,
   });
 
-//   console.log({ circleArea, rectangleArea });
+  console.log({ circleArea, rectangleArea });
 
   //
 }
